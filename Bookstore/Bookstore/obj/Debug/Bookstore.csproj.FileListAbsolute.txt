@@ -1,0 +1,7 @@
+C:\Users\sedo\source\repos\Bookstore\Bookstore\bin\Debug\Bookstore.exe.config
+C:\Users\sedo\source\repos\Bookstore\Bookstore\bin\Debug\Bookstore.exe
+C:\Users\sedo\source\repos\Bookstore\Bookstore\bin\Debug\Bookstore.pdb
+C:\Users\sedo\source\repos\Bookstore\Bookstore\obj\Debug\Bookstore.csprojAssemblyReference.cache
+C:\Users\sedo\source\repos\Bookstore\Bookstore\obj\Debug\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\sedo\source\repos\Bookstore\Bookstore\obj\Debug\Bookstore.exe
+C:\Users\sedo\source\repos\Bookstore\Bookstore\obj\Debug\Bookstore.pdb
